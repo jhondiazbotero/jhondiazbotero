@@ -2,7 +2,7 @@
 
 # Hola, soy Jhon
 
-Desarrollador de software senior y líder técnico en Medellín, Colombia.
+Desarrollador de software senior y líder técnico en Medellín, Colombia. Conoce más en [mi web](https://jhondiazbotero.github.io).
 
 Llevo más de 8 años construyendo, modernizando y estabilizando aplicaciones de negocio para empresas privadas y algunas entidades públicas. Mi fuerte es el backend en .NET / C# y PHP / Laravel, con Oracle y SQL Server debajo. Cuando el proyecto lo pide, también hago el front con Vue y Nuxt.
 
@@ -33,4 +33,4 @@ Llevo más de 8 años construyendo, modernizando y estabilizando aplicaciones de
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/jhon-bayron-diaz-botero-45a5951b8)
+[Mi web](https://jhondiazbotero.github.io) · [LinkedIn](https://www.linkedin.com/in/jhon-bayron-diaz-botero-45a5951b8)
