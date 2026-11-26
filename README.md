@@ -24,6 +24,12 @@ Llevo más de 8 años construyendo, modernizando y estabilizando aplicaciones de
 | Arquitectura | Capas, Clean Architecture, microservicios, APIs REST, DDD, CQRS |
 | Herramientas | Git, Docker, CI/CD, xUnit, Postman |
 
+## Proyectos
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [Citas API](https://github.com/jhondiazbotero/citas-api-dotnet) | API para reservar citas en un consultorio. Nadie puede reservar la misma hora dos veces, aunque dos personas lo intenten en el mismo instante. | .NET 10, PostgreSQL, EF Core, JWT, Testcontainers, Docker |
+
 ## Cómo trabajo
 
 - Por fases, con entregas que se pueden revisar y probar en cada paso.
