@@ -29,6 +29,7 @@ Llevo más de 8 años construyendo, modernizando y estabilizando aplicaciones de
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | [Citas API](https://github.com/jhondiazbotero/citas-api-dotnet) | API para reservar citas en un consultorio. Nadie puede reservar la misma hora dos veces, aunque dos personas lo intenten en el mismo instante. | .NET 10, PostgreSQL, EF Core, JWT, Testcontainers, Docker |
+| [Consultas lentas en PostgreSQL](https://github.com/jhondiazbotero/consultas-lentas-postgres) | Ocho consultas que se ponen lentas con un millón de pedidos, cada una con su arreglo medido y la prueba de que devuelve las mismas filas. | PostgreSQL 18, SQL, .NET 10, Testcontainers, GitHub Actions |
 
 ## Cómo trabajo
 
